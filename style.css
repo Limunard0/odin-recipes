@@ -1,0 +1,44 @@
+body { background-color: yellow;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+#header {text-align: center;
+font-weight: 800;
+font-size: 50px;
+font-stretch: ultra-expanded;
+letter-spacing: 15px;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.describe{ font-weight: 700;
+text-align: center;}
+
+ .ingredients { font-size: medium;
+text-align: center;
+}
+
+.steps {font-size: 12px;
+    text-align: auto;
+    list-style: outside;
+    list-style-position: outside;
+    
+    padding: 20px;
+}
+
+.main,menu {
+font-size: 40px;
+text-align: center;
+color: orangered;
+letter-spacing: 10px;
+text-indent: 10px;
+line-height: 100px;
+
+}
+
+a { color: orangered;}
